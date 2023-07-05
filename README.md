@@ -1,4 +1,3 @@
-![image](https://github.com/TERRA-PEXC/Adhoc/assets/130992657/08b70c98-56d0-4b1b-ac8a-081a7d3a6a6e)# Adhoc
 Metadata Generator
 
 **INSTRUCTIONS**
